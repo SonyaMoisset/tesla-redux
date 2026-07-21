@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "react": "15.5.4",
-    "react-dom": "15.5.4",
+    "react-dom": "15.7.0",
     "react-redux": "9.2.0",
     "redux": "5.0.1"
   },
